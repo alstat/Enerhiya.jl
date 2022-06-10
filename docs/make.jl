@@ -3,9 +3,9 @@ using Enerhiya
 
 makedocs(
     sitename = "Enerhiya.jl",
-    # format = Documenter.HTML(
-    #     assets = ["assets/favicon.ico"]
-    # ),
+    format = Documenter.HTML(
+        assets = ["assets/favicon.ico"]
+    ),
     authors = "Al-Ahmadgaid B. Asaad",
     modules = [Enerhiya],
     pages = [
