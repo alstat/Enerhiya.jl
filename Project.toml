@@ -1,0 +1,7 @@
+name = "Enerhiya"
+uuid = "5c5d7c71-f164-44e9-9bfb-95c3591f528c"
+authors = ["al-ahmadgaidasaad <alahmadgaid@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
